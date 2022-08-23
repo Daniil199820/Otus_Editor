@@ -34,7 +34,7 @@ else ()
     )
 endif()
 
-install(TARGETS editor RUNTIME DESTINATION bin)
+install(TARGETS simple_editor RUNTIME DESTINATION bin)
 
 set(CPACK_GENERATOR DEB)
 
