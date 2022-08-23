@@ -50,11 +50,7 @@ public:
 
 	std::string name = "None";
 	std::vector<std::shared_ptr<Graphical_object>> pool_graph_objects;
-    
-	Document()
-	{
-		//std::cout << "Document is created with name - "<<name<<std::endl;
-	}
+
 
 	void set_name(std::string name_);
 
