@@ -1,0 +1,4 @@
+D:/Otus_Editor/.gitignore/CMakeFiles/simple_editor.dir
+D:/Otus_Editor/.gitignore/CMakeFiles/lib_editor.dir
+D:/Otus_Editor/.gitignore/CMakeFiles/ALL_BUILD.dir
+D:/Otus_Editor/.gitignore/CMakeFiles/ZERO_CHECK.dir
