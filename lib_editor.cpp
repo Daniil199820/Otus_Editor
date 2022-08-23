@@ -6,8 +6,8 @@
 #include <utility>
 #include "lib_editor.h"
 
-	void Graphical_object::get_coordinats() {};
-	std::string Graphical_object::get_name() { return "None"; };
+	void Graphical_object::get_coordinats() {}
+	std::string Graphical_object::get_name() { return "None"; }
 	void Graphical_object:: set_index(int count)
 	{
 		index = count;
